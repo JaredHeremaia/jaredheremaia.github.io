@@ -12,4 +12,4 @@ This is my portfolio.
 
 Find my work on [GitHub](https://github.com/JaredHeremaia).
 
-Connect with me on LinkedIn www.linkedin.com/in/jared-heremaia-7679678b
+Connect with me on [LinkedIn] (www.linkedin.com/in/jared-heremaia-7679678b)
