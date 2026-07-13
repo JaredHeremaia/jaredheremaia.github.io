@@ -6,7 +6,7 @@ title: Jared Heremaia
 
 # About me
 
-Full-stack engineer with 20+ years building things in Rails,
+Full-stack engineer with 20+ years building things in Rails, TypeScript,
 React, and Svelte. 
 This is my portfolio.
 
